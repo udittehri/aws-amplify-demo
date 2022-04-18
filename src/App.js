@@ -6,10 +6,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          This is my First Aws Deployment
-        
-        </p>
+       <h1>
+         Cook Travel Code 
+       </h1>
         <a
           className="App-link"
           href="https://reactjs.org"
